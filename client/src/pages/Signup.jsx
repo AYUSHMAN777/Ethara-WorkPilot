@@ -59,13 +59,6 @@ export default function Signup() {
           <p className="mt-1 text-xs font-semibold uppercase tracking-widest text-indigo-400/90">
             Ethara Workpilot
           </p>
-          <p className="mt-2 text-sm text-slate-400">
-            Members join projects and update tasks. Admin signup needs{' '}
-            <code className="rounded-lg bg-slate-800/90 px-1.5 py-0.5 font-mono text-xs text-violet-300 ring-1 ring-slate-600/50">
-              ALLOW_ADMIN_SIGNUP=true
-            </code>{' '}
-            on the server.
-          </p>
         </div>
 
         <div className="rounded-2xl border border-slate-800/90 bg-slate-900/50 p-8 shadow-2xl shadow-black/40 ring-1 ring-white/[0.04] backdrop-blur-md">
