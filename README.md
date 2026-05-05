@@ -1,5 +1,7 @@
 # Ethara Workpilot
 
+live Demo : https://ethara-work-pilot.vercel.app/
+
 **Ethara Workpilot** is a production-oriented **project management** web app: projects, team members, tasks with statuses, role-based access (Admin / Member), and a dashboard. Built as a **monorepo** with an Express + MongoDB API and a React (Vite) client.
 
 ## Tech stack
